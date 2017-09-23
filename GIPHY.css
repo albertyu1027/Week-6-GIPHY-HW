@@ -1,0 +1,33 @@
+body {
+	background-color: yellow;
+}
+
+h1 {
+	text-align: center;
+}
+
+#buttons {
+	text-align: center;
+}
+
+.emotions {
+	padding:10px;
+	background-color: blue;
+	color:white;
+	font-weight:bold;
+	font-size:15px;
+	margin: 5px;
+}
+
+.form-group {
+	text-align: center;
+}
+
+#images div{
+	display: inline-block;
+	margin:10px;
+}
+
+
+
+
